@@ -1,6 +1,6 @@
 # Assignment-Week-4---CRISP-DM-SEMMA-and-KDD
 
-## Research Papers
+## Research Papers (Uploaded to this repo)
 1. YouTube Channel Analytics: A CRISP-DM Analysis to
 Enhance Creator Engagement and Monetization
 2. Analysis of Hotel Bookings Using the SEMMA
